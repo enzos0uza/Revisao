@@ -1,23 +1,39 @@
-#titulo wow{
-
+#titulo{
+background-color: #ae1c1c;
+text-align: center;
+display: flex;
+justify-content: center;
     
+}
+body{
+    margin: 0%;
+}
+.html{
+
+    height: 300px;
+    width: 1000px;
+    background-color: #dfbe58;
+    text-align: left;
+
 }
 .js{
 
-    background-color: #4DDCD8;
+    height: 300px;
+    width: 1000px;
+    background-color: #ce9855;
 }
 
-.html{
-
-    background-color: #4DDCD8;
-}
 
 .css{
-    background-color: #30DB61;
+    height: 300px;
+    width: 1000px;
+    background-color: #542e07;
+
 }
 
 
-.html{
-    background-color: #30DB9C;
+.git{
+    height: 300px;
+    width: 1000px;
+    background-color: #FF9C37; 
 }
-
